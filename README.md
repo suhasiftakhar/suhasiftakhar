@@ -3,8 +3,21 @@
 <h3 align="center">Software Quality Assurance Engineer from Bangladesh</h3>
 <h1 align="left">About:</h1>
 <p align="left"> Ambitious and self-motivated individual with professional experience, and excellent knowledge of Software Quality Assurance testing. I am eager to work in any company that will allow me to expand my skills and enhance my knowledge, talent, and ability to execute duties and obligations. </p>
-<img align="right" alt="coding"width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif"> 
+<img align="right" alt="coding"width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif"> 
+<h1 align="left">Professional Skill</h1>
+<p align="left"> 🔹Manual Testing.<br>
+                 🔹Test Case and Reporting Writting.<br>
+                 🔹Test Planning Reviewing Test Cases.<br>
+                 🔹Bug Report Generate with Jira.<br>
+                 🔹Mind Map with XMind.<br>
+                 🔹API Manual Testing and Automation Testing with Posman.<br>
+                 🔹Report Generate with Newman.<br>
+                 🔹Load Testing with JMeter.
+
+
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasiftakhar&label=Profile%20views&color=0e75b6&style=flat" alt="suhasiftakhar" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhasiftakhar" alt="suhasiftakhar" /></a> </p>
 
 - 🌱 I’m currently learning **Web Automation with Selenium**
 
