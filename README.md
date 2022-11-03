@@ -3,7 +3,7 @@
 <h3 align="center">Software Quality Assurance Engineer from Bangladesh</h3>
 <h1 align="left">About:</h1>
 <p align="left"> Ambitious and self-motivated individual with professional experience, and excellent knowledge of Software Quality Assurance testing. I am eager to work in any company that will allow me to expand my skills and enhance my knowledge, talent, and ability to execute duties and obligations. </p>
-<img align="right" alt="coding"width="480" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif"> 
+<img align="right" alt="coding"width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif"> 
 <h1 align="left">Professional Skill</h1>
 <p align="left"> 🔹Manual Testing.<br>
                  🔹Test Case and Reporting Writting.<br>
